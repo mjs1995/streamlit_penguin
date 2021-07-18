@@ -4,7 +4,7 @@
 
 ## Project boilerplate
 
-apps
+    apps
     ├── ...
     ├── streamlit_penguin       # app project
     │   ├── app.py              # dash application
