@@ -1,4 +1,5 @@
 # streamlit_palmer penguins [[Link](https://dashboard-penguin.herokuapp.com/)]
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/47103479/126338710-2086ecd0-c9fa-4609-b57f-ccf5f68f1eb3.gif)
 ## Data
 - palmer penguins
 
