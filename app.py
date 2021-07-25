@@ -309,6 +309,6 @@ if option=='모델링':
         fig, ax = plt.subplots()
         plt.scatter(X.loc[:, 'flipper_length_mm'], X.loc[:, 'body_mass_g'], c=y_kmeans, s=50, cmap='viridis')
         centers = kmeans.cluster_centers_
-        plt.scatter(centers[:, 0], centers[:, 1], c='black', s=200, alpha=0.5)
+        plt.scatter(centers[:, 0], centers[:, 1] , c='black', s=200, alpha=0.5)
         plt.title(title)
         st.pyplot(fig)
